@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">MyMessage</string>
+    <string name="title_activity_display_text">DisplayTextActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_web">WebActivity</string>
+    <string name="dialog_message">¿Te gustan los gatos?</string>
+    <string name="bien">Sí</string>
+    <string name="no_bueno">No</string>
+    <string name="dialog_title">Spanish lesson</string>
+    <string name="title_activity_alert">AlertActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
